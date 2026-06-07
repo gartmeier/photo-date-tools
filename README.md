@@ -40,4 +40,6 @@ The binary will be at:
 target/release/photo-mtime
 ```
 
+---
+
 Assisted by OpenAI GPT-5.5.
