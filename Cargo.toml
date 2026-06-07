@@ -1,0 +1,12 @@
+[package]
+name = "photo-mtime"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.102"
+chrono = "0.4.45"
+filetime = "0.2.26"
+kamadak-exif = "0.6.1"
+regex = "1.12.3"
+walkdir = "2.5.0"
